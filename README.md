@@ -86,3 +86,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Jordi Ayala - [@ASJordi](https://twitter.com/ASJordi)
 
 Project Link: [https://github.com/ASJordi/task-tracker-cli](https://github.com/ASJordi/task-tracker-cli)
+
+Reference: [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
